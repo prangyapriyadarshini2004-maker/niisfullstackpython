@@ -1,3 +1,4 @@
+"""wap take no from keyboard no is divisible by 5 and 7 only 5 only 7 not divisible 5 and 7"""
 print("enter a number")
 no=int(input())
 if no%5==0 and no%7==0:

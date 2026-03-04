@@ -9,4 +9,5 @@ match ch:
      case 2:print("sub=",no1-no2)
      case 3:print("mult=",no1*no2)
      case _:print("invalid choice")
+      1
       
