@@ -1,0 +1,6 @@
+f=open("sita.txt","w")
+f.write("Ram is a good boy")
+f.close()
+f=open("sita.txt","r")
+print(f.read())
+f.close()
