@@ -1,0 +1,305 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"a",
+				"class\tNew Class"
+			],
+			[
+				"r",
+				"for\tFor Loop"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/prang/Desktop/c/niisfullstackpython/python niis/htmlcss.html",
+		"/C/Users/prang/Desktop/c/niisfullstackpython/python niis/imglink.html",
+		"/C/Users/prang/Desktop/c/niisfullstackpython/python niis/htmlprogram/form.html",
+		"/C/Users/prang/Desktop/c/niisfullstackpython/python niis/htmlprogram/image.html",
+		"/C/Users/prang/Desktop/c/niisfullstackpython/python niis/mt3.py",
+		"/C/Users/prang/Desktop/c/niisfullstackpython/python niis/multithreading/mt2.py",
+		"/C/Users/prang/Desktop/c/niisfullstackpython/python niis/multithreading/mt1.py",
+		"/C/Users/prang/Desktop/c/niisfullstackpython/python niis/tk1.html",
+		"/C/Users/prang/Desktop/c/niisfullstackpython/python niis/tk.py",
+		"/C/Users/prang/Desktop/c/niisfullstackpython/python niis/file handling/data.txt",
+		"/C/Users/prang/Desktop/c/niisfullstackpython/python niis/htmlprogram/eight.html",
+		"/C/Users/prang/Desktop/c/niisfullstackpython/python niis/htmlprogram/di.html",
+		"/C/Users/prang/Desktop/c/niisfullstackpython/python niis/htmlprogram/ol.html",
+		"/C/Users/prang/Desktop/c/niisfullstackpython/python niis/htmlprogram/seven.html",
+		"/C/Users/prang/Desktop/c/niisfullstackpython/python niis/htmlprogram/six.html",
+		"/C/Users/prang/Desktop/c/niisfullstackpython/python niis/htmlprogram/table.html",
+		"/C/Users/prang/Desktop/c/niisfullstackpython/python niis/htmlprogram/five.html",
+		"/C/Users/prang/Desktop/c/niisfullstackpython/python niis/htmlprogram/four.html",
+		"/C/Users/prang/Desktop/c/niisfullstackpython/python niis/htmlprogram/three.html",
+		"/C/Users/prang/Desktop/c/niisfullstackpython/python niis/htmlprogram/two.html",
+		"/C/Users/prang/Desktop/c/niisfullstackpython/python niis/file handling/f17.py",
+		"/C/Users/prang/Desktop/c/niisfullstackpython/python niis/file handling/f16.py",
+		"/C/Users/prang/Desktop/c/niisfullstackpython/python niis/file handling/f15.py",
+		"/C/Users/prang/Desktop/c/niisfullstackpython/python niis/file handling/f14.py",
+		"/C/Users/prang/Desktop/c/niisfullstackpython/python niis/file handling/f13.py",
+		"/C/Users/prang/Desktop/c/niisfullstackpython/python niis/file handling/f12.py",
+		"/C/Users/prang/Desktop/c/niisfullstackpython/python niis/file handling/f11.py",
+		"/C/Users/prang/Desktop/c/niisfullstackpython/python niis/file handling/f10.py",
+		"/C/Users/prang/Desktop/c/niisfullstackpython/python niis/file handling/f9.py",
+		"/C/Users/prang/Desktop/c/niisfullstackpython/python niis/file handling/f8.py",
+		"/C/Users/prang/Desktop/c/niisfullstackpython/python niis/file handling/f7.py",
+		"/C/Users/prang/Desktop/c/niisfullstackpython/python niis/file handling/f6.py",
+		"/C/Users/prang/Desktop/c/niisfullstackpython/python niis/file handling/f1.py",
+		"/C/Users/prang/Desktop/c/niisfullstackpython/python niis/file handling/f5.py",
+		"/C/Users/prang/Desktop/c/niisfullstackpython/python niis/file handling/f2.py",
+		"/C/Users/prang/Desktop/c/niisfullstackpython/python niis/file handling/f4.py",
+		"/C/Users/prang/Desktop/c/niisfullstackpython/python niis/file handling/f3.py",
+		"/C/Users/prang/Desktop/c/niisfullstackpython/python niis/htmlprogram/three.py",
+		"/C/Users/prang/Desktop/c/niisfullstackpython/python niis/pattern program/patternprogram1.py",
+		"/C/Users/prang/Desktop/c/niisfullstackpython/python niis/pattern program/patternprogram2.py",
+		"/C/Users/prang/Desktop/c/niisfullstackpython/python niis/pattern program/patternprogram3.py",
+		"/C/Users/prang/Desktop/c/niisfullstackpython/python niis/pattern program/patternprogram4.py",
+		"/C/Users/prang/Desktop/c/niisfullstackpython/python niis/pattern program/patternprogram5.py",
+		"/C/Users/prang/Desktop/c/niisfullstackpython/python niis/pattern program/patternprogram6.py",
+		"/C/Users/prang/Desktop/c/niisfullstackpython/python niis/pattern program/patternprogram7.py",
+		"/C/Users/prang/Desktop/c/niisfullstackpython/python niis/pattern program/patternprogram8.py",
+		"/C/Users/prang/Desktop/c/niisfullstackpython/python niis/pattern program/patternprogram9.py",
+		"/C/Users/prang/Desktop/c/niisfullstackpython/python niis/pattern program/patternprogram10.py",
+		"/C/Users/prang/Desktop/c/niisfullstackpython/python niis/pattern program/patternprogram11.py",
+		"/C/Users/prang/Desktop/c/niisfullstackpython/python niis/pattern program/patternprogram12.py",
+		"/C/Users/prang/Desktop/c/niisfullstackpython/python niis/pattern program/patternprogram13.py",
+		"/C/Users/prang/Desktop/c/niisfullstackpython/python niis/pattern program/patternprogram14.py",
+		"/C/Users/prang/Desktop/c/niisfullstackpython/python niis/pattern program/patternprogram15.py",
+		"/C/Users/prang/Desktop/c/niisfullstackpython/python niis/pattern program/patternprogram16.py",
+		"/C/Users/prang/Desktop/c/niisfullstackpython/python niis/pattern program/patternprogram17.py",
+		"/C/Users/prang/Desktop/c/niisfullstackpython/python niis/pattern program/patternprogram18.py",
+		"/C/Users/prang/Desktop/c/niisfullstackpython/python niis/pattern program/patternprogram19.py",
+		"/C/Users/prang/Desktop/c/niisfullstackpython/python niis/pattern program/patternprogram20.py",
+		"/C/Users/prang/Desktop/c/niisfullstackpython/python niis/pattern program/patternprogram21.py",
+		"/C/Users/prang/Desktop/c/niisfullstackpython/python niis/pattern program/patternprogram22.py",
+		"/C/Users/prang/Desktop/c/niisfullstackpython/python niis/pattern program/patternprogram23.py",
+		"/C/Users/prang/Desktop/c/niisfullstackpython/python niis/pattern program/patternprogram24.py",
+		"/C/Users/prang/Desktop/c/niisfullstackpython/python niis/pattern program/patternprogram25.py",
+		"/C/Users/prang/Desktop/c/niisfullstackpython/python niis/pattern program/patternprogram32.py",
+		"/C/Users/prang/Desktop/c/niisfullstackpython/python niis/pattern program/patternprogram31.py",
+		"/C/Users/prang/Desktop/c/niisfullstackpython/python niis/pattern program/patternprogram30.py",
+		"/C/Users/prang/Desktop/c/niisfullstackpython/python niis/pattern program/patternprogram29.py",
+		"/C/Users/prang/Desktop/c/niisfullstackpython/python niis/pattern program/patternprogram28.py",
+		"/C/Users/prang/Desktop/c/niisfullstackpython/python niis/pattern program/patternprogram27.py",
+		"/C/Users/prang/Desktop/c/niisfullstackpython/python niis/pattern program/patternprogram26.py",
+		"/C/Users/prang/Desktop/c/niisfullstackpython/python niis/list/l23.py",
+		"/C/Users/prang/Desktop/c/niisfullstackpython/python niis/list/l24.py",
+		"/C/Users/prang/Desktop/c/niisfullstackpython/python niis/list/l21.py",
+		"/C/Users/prang/Desktop/c/niisfullstackpython/python niis/list/l22.py",
+		"/C/Users/prang/Desktop/c/niisfullstackpython/python niis/list/l20.py",
+		"/C/Users/prang/Desktop/c/niisfullstackpython/python niis/list/l19.py",
+		"/C/Users/prang/Desktop/c/niisfullstackpython/python niis/list/l18.py",
+		"/C/Users/prang/Desktop/c/niisfullstackpython/python niis/string/s1.py",
+		"/C/Users/prang/Desktop/c/niisfullstackpython/python niis/string/s2.py",
+		"/C/Users/prang/Desktop/c/niisfullstackpython/python niis/string/s3.py",
+		"/C/Users/prang/Desktop/c/niisfullstackpython/python niis/string/s4.py",
+		"/C/Users/prang/Desktop/c/niisfullstackpython/python niis/list/l12.py",
+		"/C/Users/prang/Desktop/c/niisfullstackpython/python niis/list/l13.py",
+		"/C/Users/prang/Desktop/c/niisfullstackpython/python niis/list/l14.py",
+		"/C/Users/prang/Desktop/c/niisfullstackpython/python niis/list/l15.py",
+		"/C/Users/prang/Desktop/c/niisfullstackpython/python niis/list/l16.py",
+		"/C/Users/prang/Desktop/c/niisfullstackpython/python niis/list/l17.py",
+		"/C/Users/prang/Desktop/c/niisfullstackpython/python niis/abstract class/ab2.py",
+		"/C/Users/prang/Desktop/c/niisfullstackpython/python niis/abstract class/ab1.py",
+		"/C/Users/prang/Desktop/c/niisfullstackpython/python niis/oops program/constructor11.py",
+		"/C/Users/prang/Desktop/c/niisfullstackpython/python niis/oops program/constructor10.py",
+		"/C/Users/prang/Desktop/c/niisfullstackpython/python niis/oops program/constructor9.py",
+		"/C/Users/prang/Desktop/c/niisfullstackpython/python niis/oops program/constructor8.py",
+		"/C/Users/prang/Desktop/c/niisfullstackpython/python niis/oops program/constructor7.py",
+		"/C/Users/prang/Desktop/c/niisfullstackpython/python niis/oops program/constructor6.py",
+		"/C/Users/prang/Desktop/c/niisfullstackpython/python niis/oops program/constructor5.py",
+		"/C/Users/prang/Desktop/c/niisfullstackpython/python niis/oops program/constructor4.py",
+		"/C/Users/prang/Desktop/c/niisfullstackpython/python niis/oops program/constructor3.py",
+		"/C/Users/prang/Desktop/c/niisfullstackpython/python niis/oops program/constructor2.py",
+		"/C/Users/prang/Desktop/c/niisfullstackpython/python niis/oops program/constructor1.py",
+		"/C/Users/prang/Desktop/c/niisfullstackpython/python niis/oops program/student1.py",
+		"/C/Users/prang/Desktop/c/niisfullstackpython/python niis/oops program/rectangle.py",
+		"/C/Users/prang/Desktop/c/niisfullstackpython/python niis/oops program/square.py",
+		"/C/Users/prang/Desktop/c/niisfullstackpython/python niis/oops program/simple intres2t.py",
+		"/C/Users/prang/Desktop/c/niisfullstackpython/python niis/oops program/simple intrest.py",
+		"/C/Users/prang/Desktop/c/niisfullstackpython/python basic/rectangle area.py",
+		"/C/Users/prang/Desktop/c/niisfullstackpython/python basic/ASCII to char.py",
+		"/C/Users/prang/Desktop/c/niisfullstackpython/python basic/char to ascii.py",
+		"/C/Users/prang/Desktop/c/niisfullstackpython/python basic/surfacearea cylinder.py",
+		"/C/Users/prang/Desktop/c/niisfullstackpython/python basic/distance.py",
+		"/C/Users/prang/Desktop/c/niisfullstackpython/python basic/cone volume.py",
+		"/C/Users/prang/Desktop/c/niisfullstackpython/python basic/cylinder.py",
+		"/C/Users/prang/Desktop/c/niisfullstackpython/python basic/midpoint.py",
+		"/C/Users/prang/Desktop/c/niisfullstackpython/python basic/slope line.py",
+		"/C/Users/prang/Desktop/c/niisfullstackpython/python basic/potential energy.py",
+		"/C/Users/prang/Desktop/c/niisfullstackpython/python basic/kinetic energy.py",
+		"/C/Users/prang/Desktop/c/niisfullstackpython/python basic/work done.py",
+		"/C/Users/prang/Desktop/c/niisfullstackpython/python basic/pressure.py",
+		"/C/Users/prang/Desktop/c/niisfullstackpython/python basic/force.py",
+		"/C/Users/prang/Desktop/c/niisfullstackpython/python basic/acceleration.py",
+		"/C/Users/prang/Desktop/c/niisfullstackpython/python basic/reverse.py",
+		"/C/Users/prang/Desktop/c/niisfullstackpython/python basic/percentage.py",
+		"/C/Users/prang/Desktop/c/niisfullstackpython/python basic/BMI calculate.py",
+		"/C/Users/prang/Desktop/c/niisfullstackpython/python basic/string.py",
+		"/C/Users/prang/Desktop/c/niisfullstackpython/python basic/gst calculate.py",
+		"/C/Users/prang/Desktop/c/niisfullstackpython/python basic/discountedprice.py",
+		"/C/Users/prang/Desktop/c/niisfullstackpython/python basic/sellingprice.py",
+		"/C/Users/prang/Desktop/c/niisfullstackpython/python basic/netsalary.py"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 48.8
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 192.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
